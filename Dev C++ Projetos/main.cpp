@@ -58,6 +58,7 @@ int main(){
  
   //saida
         }
+      printf("obrigado por ultilizar a calculadora v0.2.2");  
     return 0;
    
 }
